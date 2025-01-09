@@ -4,12 +4,12 @@ This application is designed to handle and display order data in both JSON and X
 
 **Features**
 
-Data Formats:
+**Data Formats:**
 
 * Supports retrieving order data in JSON format.
 * Converts and displays the same data in a structured XML format.
 
-Order Details:
+**Order Details:**
 
   Each order contains fields such as:
   
