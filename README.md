@@ -13,9 +13,9 @@ Order Details:
 
   Each order contains fields such as:
   
-    * id: Unique identifier for the order.
-    * orderNo: Order number.
-    * productName: Name of the product.
-    * price: Price of the product.
-    * quantity: Quantity ordered.
-    * Dynamic Representation: Easily toggles between JSON and XML views of the order data.
+* id: Unique identifier for the order.
+* orderNo: Order number.
+* productName: Name of the product.
+* price: Price of the product.
+* quantity: Quantity ordered.
+* Dynamic Representation: Easily toggles between JSON and XML views of the order data.
